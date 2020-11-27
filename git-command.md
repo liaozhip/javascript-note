@@ -1,5 +1,9 @@
 # git的一些常用命令
 
+## 将本地项目关联到远程仓库
+
+- `git remote add origin 'address'`
+
 ## 添加到暂存区
 
 - `git add [file1 file2 ...]`  要添加的文件
