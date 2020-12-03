@@ -44,3 +44,5 @@
 - `git branch [branch-name]`  新建分支
 - `git checkout -b [branch-name]` 新建分支并切换
 - `git checkout [branch-name]`  切换到指定分支
+- 
+- `git checkout -b [branch-name]`  切换到远程分支
